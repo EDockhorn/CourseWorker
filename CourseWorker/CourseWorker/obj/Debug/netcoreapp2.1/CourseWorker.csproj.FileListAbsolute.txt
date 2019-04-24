@@ -1,0 +1,11 @@
+C:\Users\johnn\source\repos\CourseWorker\CourseWorker\obj\Debug\netcoreapp2.1\CourseWorker.csprojAssemblyReference.cache
+C:\Users\johnn\source\repos\CourseWorker\CourseWorker\obj\Debug\netcoreapp2.1\CourseWorker.csproj.CoreCompileInputs.cache
+C:\Users\johnn\source\repos\CourseWorker\CourseWorker\obj\Debug\netcoreapp2.1\CourseWorker.AssemblyInfoInputs.cache
+C:\Users\johnn\source\repos\CourseWorker\CourseWorker\obj\Debug\netcoreapp2.1\CourseWorker.AssemblyInfo.cs
+C:\Users\johnn\source\repos\CourseWorker\CourseWorker\bin\Debug\netcoreapp2.1\CourseWorker.deps.json
+C:\Users\johnn\source\repos\CourseWorker\CourseWorker\bin\Debug\netcoreapp2.1\CourseWorker.runtimeconfig.json
+C:\Users\johnn\source\repos\CourseWorker\CourseWorker\bin\Debug\netcoreapp2.1\CourseWorker.runtimeconfig.dev.json
+C:\Users\johnn\source\repos\CourseWorker\CourseWorker\bin\Debug\netcoreapp2.1\CourseWorker.dll
+C:\Users\johnn\source\repos\CourseWorker\CourseWorker\bin\Debug\netcoreapp2.1\CourseWorker.pdb
+C:\Users\johnn\source\repos\CourseWorker\CourseWorker\obj\Debug\netcoreapp2.1\CourseWorker.dll
+C:\Users\johnn\source\repos\CourseWorker\CourseWorker\obj\Debug\netcoreapp2.1\CourseWorker.pdb
